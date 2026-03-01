@@ -1,0 +1,10 @@
+InputA: A_2000.txt
+InputB: B_2000.txt
+Output: result_2000
+n = 2000
+mults = 8000000000
+adds = 7996000000
+FLOPs ~ 15996000000
+memory bytes (A,B,C) ~ 96000000
+time_sec = 30.1956
+time_ms = 30195
